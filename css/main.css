@@ -1,0 +1,21 @@
+h1{
+  font-family: 'Aref Ruqaa', serif;
+}
+
+body{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #ffc6b3;
+  color: #862d59;
+}
+
+.lightbox-gallery a {
+  text-decoration: none;
+}
+
+.lightbox-gallery img {
+  padding: 10px;
+}
+
+.lightbox-gallery img:hover {
+  box-shadow: 5px 5px 5px #ff9999;
+}
